@@ -1,0 +1,1 @@
+(fn [col] (filter odd? col))

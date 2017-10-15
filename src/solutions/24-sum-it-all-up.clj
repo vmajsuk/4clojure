@@ -1,0 +1,1 @@
+(fn [col] (reduce + col))
